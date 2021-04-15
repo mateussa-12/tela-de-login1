@@ -11,16 +11,17 @@
 		
 		<section>
 			<form>
-				<div>
-					<input type="text" placeholder="Nome" >
-				</div>
-				
+								
 				<div>
 					<input type="text" placeholder="E-mail" >
 				</div>
 			
 				<div>
 					<input type="password" placeholder="Senha" >
+				</div>
+				
+				<div>
+					<input type="submit" value="Entrar">
 				</div>
 				
 				<div>
