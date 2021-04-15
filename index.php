@@ -2,6 +2,8 @@
 
 	<head>
 		<meta charset="utf-8">
+		<link rel="stylesheet" href="">
+		<link rel="stylesheet" type="text/css" href="css/styles.css">
 	</head>
 	
 	<body>
@@ -10,21 +12,21 @@
 		</section>
 		
 		<section>
-			<form>
+			<form class="formula">
 								
-				<div>
+				<div class="email">
 					<input type="text" placeholder="E-mail" >
 				</div>
 			
-				<div>
+				<div class="senha">
 					<input type="password" placeholder="Senha" >
 				</div>
 				
-				<div>
+				<div class="bt-entrar">
 					<input type="submit" value="Entrar">
 				</div>
 				
-				<div>
+				<div class="bt-cadastro">
 					<input type="submit" value="Cadastrar" >
 				</div>
 			</form>
