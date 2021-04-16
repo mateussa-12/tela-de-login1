@@ -14,21 +14,23 @@
 		<section>
 			<form class="formula">
 								
-				<div class="email">
-					<input type="text" placeholder="E-mail" >
+				<div >
+					<input class="email" type="text" placeholder="E-mail" >
 				</div>
 			
-				<div class="senha">
-					<input type="password" placeholder="Senha" >
+				<div >
+					<input class="senha" type="password" placeholder="Senha" >
 				</div>
 				
-				<div class="bt-entrar">
-					<input type="submit" value="Entrar">
+				<nav>
+				<div>
+					<input class="bt-entrar" type="submit" value="Entrar">
 				</div>
 				
-				<div class="bt-cadastro">
-					<input type="submit" value="Cadastrar" >
+				<div >
+					<input class="bt-cadastro" type="submit" value="Cadastrar" >
 				</div>
+				</nav>
 			</form>
 		</section>
 	</body>

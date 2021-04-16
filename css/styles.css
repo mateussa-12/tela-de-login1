@@ -1,6 +1,33 @@
 
 .formula{
 		position:absolute;
-		left:70%;
-		transform:translateX(-70%);
+		left:80%;
+		transform:translateX(-80%);
+}
+
+div{
+	height:35px;	
+}
+
+nav{
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+}
+
+.email{
+	width:150px;
+}
+
+.senha{
+	width:150px;
+}
+
+
+.bt-entrar{
+	
+}
+
+.bt-cadastro{
+	
 }
