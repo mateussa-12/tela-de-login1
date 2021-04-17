@@ -9,10 +9,9 @@ div{
 	height:35px;	
 }
 
-nav{
+
+.botoes{
 	display:flex;
-	justify-content:space-between;
-	align-items:center;
 }
 
 .email{
@@ -23,11 +22,25 @@ nav{
 	width:150px;
 }
 
-
-.bt-entrar{
+section {
+	display:flex;
 	
 }
 
-.bt-cadastro{
+section a{
 	
+}
+
+.bt-entrar{
+	width:80px;
+	height:35px;
+	border-radius:10px;
+	border:1px solid #3d3d3e;
+}
+
+.bt-cadastro{
+	width:80px;
+	height:35px;
+	border-radius:10px;
+	border:1px solid #3d3d3e;
 }

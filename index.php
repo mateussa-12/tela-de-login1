@@ -2,7 +2,6 @@
 
 	<head>
 		<meta charset="utf-8">
-		<link rel="stylesheet" href="">
 		<link rel="stylesheet" type="text/css" href="css/styles.css">
 	</head>
 	
@@ -22,7 +21,13 @@
 					<input class="senha" type="password" placeholder="Senha" >
 				</div>
 				
-				<nav>
+				<section>					
+						<input type="checkbox">
+						<a class="check">lembrar</a>
+						<a href="#" class="E-senha">Esqueceu a senha? </a>	
+				</section>
+				
+				<nav class="botoes">
 				<div>
 					<input class="bt-entrar" type="submit" value="Entrar">
 				</div>
