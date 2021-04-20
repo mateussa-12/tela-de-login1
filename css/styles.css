@@ -15,6 +15,7 @@ div{
 }
 
 .email{
+<<<<<<< HEAD
 	width:150px;
 	height:30px;
 	border-radius:10px;
@@ -26,6 +27,13 @@ div{
 	height:30px;
 	border-radius:10px;
 	border:1px solid #3d3d3e;
+=======
+	width:100px;
+}
+
+.senha{
+	width:100px;
+>>>>>>> 091da99c86b18922e80564b000d5a612f042afc6
 }
 
 section {
@@ -35,12 +43,15 @@ section {
 
 section a{
 	height:30px;
+<<<<<<< HEAD
 }
 
 .E-senha{
 	position:relative;
 	left:40%;
 	
+=======
+>>>>>>> 091da99c86b18922e80564b000d5a612f042afc6
 }
 
 .bt-entrar{
@@ -57,6 +68,7 @@ section a{
 	border:1px solid #3d3d3e;
 	position:absolute;
 	left:60%;
+<<<<<<< HEAD
 }
 
 .social{
@@ -77,4 +89,6 @@ section a{
 	background-color:#e6e3e3;
 	margin:20px 10px;
 	border-radius:50px;
+=======
+>>>>>>> 091da99c86b18922e80564b000d5a612f042afc6
 }
