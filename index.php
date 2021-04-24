@@ -18,12 +18,12 @@
 			<img src="img/ilustracao-da-recepcao-do-hotel.jpg" class="imagem">
 			<form class="formula">
 								
-				<div >
+				<div class="container" >
 					<input class="email" type="text" placeholder="E-mail" >
 				</div>
 			
-				<div >
-					<input class="senha" type="password" placeholder="Senha" >
+				<div class="container">
+					<input class="email" type="password" placeholder="Senha" >
 				</div>
 				
 				<section>					
